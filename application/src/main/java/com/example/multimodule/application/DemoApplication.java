@@ -18,7 +18,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return myService.message() + "etsat";
+		return myService.message() + "shasy";
 	}
 
 	public static void main(String[] args) {
